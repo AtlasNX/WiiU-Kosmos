@@ -1,4 +1,4 @@
-![https://github.com/Ta180m/WiiU-Kosmos-Undead/releases/latest](https://user-images.githubusercontent.com/25822956/52866161-64c6e300-313e-11e9-9e3a-87636ed67467.png)
+[![](https://user-images.githubusercontent.com/25822956/52866161-64c6e300-313e-11e9-9e3a-87636ed67467.png)](https://github.com/Ta180m/WiiU-Kosmos-Undead/releases/latest)
 <p align="center">The handy All-in-One package, which includes everything you need to run Mocha and Haxchi with some extras to enhance your experience.</p>
 
 ---
